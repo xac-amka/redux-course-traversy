@@ -15,6 +15,14 @@
  | Persist State           |            |
   ______________________________________
 
+|   |   |
+|---|---|
+|Easier Debugging   |Complexity|
+|Easier Testing     |Verbosity|
+|Undo/Redo          |   |
+|Preserve Page State|   |
+| Persist State     |   |
+
 ## Programming Paradigms
  - Functional
  > Invented in 1950s, it takes input and returns output. They don't mutate or change data.
