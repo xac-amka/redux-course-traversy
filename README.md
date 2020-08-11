@@ -8,14 +8,8 @@
 
 ## Pros ---------------------- Cons
   ______________________________________ 
- | Easier Debugging        | Complexity |
- | Easier Testing          | Verbosity  |
- | Undo/Redo               |            |
- | Preserve Page State     |            |
- | Persist State           |            |
-  ______________________________________
 
-|   |   |
+| Pros  | Cons  |
 |---|---|
 |Easier Debugging   |Complexity|
 |Easier Testing     |Verbosity|
